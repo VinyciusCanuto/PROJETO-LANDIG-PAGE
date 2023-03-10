@@ -1,0 +1,44 @@
+body {
+    width: 750px;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 0.8;
+    padding: .6rem;
+  }
+  
+  header {
+    
+    margin: auto;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .6rem;
+    box-sizing: border-box;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+}
